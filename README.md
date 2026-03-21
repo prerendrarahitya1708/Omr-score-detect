@@ -1,0 +1,1 @@
+This is basic code for OMR evaluation. It is not professionally developed yet. First, run app.py, then open it in your web browser. The result image will be saved in the same folder where your code is located.
